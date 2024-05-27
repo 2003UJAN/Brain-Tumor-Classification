@@ -1,2 +1,2 @@
-# Brain-Tumor-C
+# Brain-Tumor-Classification
 
