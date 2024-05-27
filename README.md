@@ -1,2 +1,2 @@
-# Brain-Tumor-Classi
+# Brain-Tumor-Classif
 
