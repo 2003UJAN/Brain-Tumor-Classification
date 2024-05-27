@@ -1,2 +1,2 @@
-# Brain-Tumo
+# Brain-Tumor
 
